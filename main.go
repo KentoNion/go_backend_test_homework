@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-//турбокек
+// турбокек
 func Add(a, b int) int {
 	return a + b
 }
